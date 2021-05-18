@@ -88,9 +88,7 @@ public class ClientGUI {
     }
 
     private String[] getIP() {
-        System.out.println("GET IP FUNCTION");
         String[] ip=JOptionPane.showInputDialog(frame, "Introdueix la IP:Port del servidor", "localhost:10000").split(":");
-        System.out.println("CLOSE IP FUNCTION");
         return ip;
     }
 
