@@ -5,5 +5,5 @@ Per tal de executar la pràctica primer s'ha de executar el servidor amb la comm
      
 Un cop executat i obert el servidor executem la commanda per obrir cada client. 
 
-     java Client
+     java ClientControl
 Aquest haurà de ser executat en una terminal diferent per a cada client.
